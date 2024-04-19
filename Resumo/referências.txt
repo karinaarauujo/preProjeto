@@ -1,7 +1,0 @@
-Resumo
-
-A energia eólica tem ganhado destaque nas últimas décadas devido à escassez de combustíveis fósseis e às preocupações ambientais, sendo sua utilização comercial significativa a partir de 1976. No Brasil, o investimento em usinas eólicas tornou-se expressivo apenas em 2002. Os danos ambientais associados a essa tecnologia incluem principalmente problemas sonoros, visuais e eletromagnéticos, além dos impactos na vida selvagem, estudos realizados principalmente na América do Norte e Europa têm identificado os efeitos negativos em aves e morcegos, como a redução e exclusão de habitat, colisões e eletrocussão. No entanto, no Brasil, o conhecimento sobre esses impactos é limitado, estando restrito a relatórios de licenciamento ambiental de difícil acesso para a maioria da população e pesquisadores. Portanto, este estudo buscou compilar os impactos e medidas de mitigação de todas as usinas eólicas em operação e em processo de instalação no país até o final de 2009, com o objetivo de tornar essas informações mais acessíveis e compreensíveis para o público interessado.
-
-Referência
-
-[1] SOVERNIGO, Matheus Hobold. Impacto dos Aerogeradores sobre a Avifauna e Quiropterofauna no Brasil. Trabalho de Conclusão de Curso - Universidade Federal de Santa Catarina, Curso de Ciências Biológicas, Florianópolis, 2009.
